@@ -5,13 +5,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="Mood Navigator Logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Mood Navigator</h3>
 
   <p align="center">
-    project_description
+    An innovative application harnessing the power of natural language processing and artificial intelligence, designed to function as your personal diary while offering valuable insights into your emotions. Tailored for younger generations, especially teenagers who may find it challenging to express their feelings openly, this app provides a safe outlet for sharing emotions and facilitates personal growth and self-improvement.
     <br />
   </p>
 </div>
@@ -70,9 +70,9 @@ Before you begin to import and run the app
 
 5. Open a new terminal window
 
-3. Enter the following command
+3. Enter the following command into the terminal
    ```sh
-  'streamlit run app.py'
+   streamlit run app.py
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
