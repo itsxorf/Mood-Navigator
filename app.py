@@ -48,7 +48,7 @@ emotions_emoji_dict = {
 
 # Main Application
 def main():
-    st.title("Mood Navigator App")
+    st.title("Mood Navigator")
     create_page_visited_table()
     create_user_table()
 
