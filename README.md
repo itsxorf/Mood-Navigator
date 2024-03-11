@@ -43,8 +43,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Login Page](Screenshot_1.png)
-![Home Page](Screenshot_2.png)
+![Login Page](images/Screenshot_1.png)
+![Home Page](images/Screenshot_2.png)
 <!-- GETTING STARTED -->
 ## Getting Started
 
