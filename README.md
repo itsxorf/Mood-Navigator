@@ -5,7 +5,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="MoodNavigatorLogo.png" alt="Logo" width="200" height="200">
+    <img src="images/MN Logo.png" alt="Logo" width="270" height="270">
   </a>
 
 <h3 align="center">Mood Navigator</h3>
